@@ -8,8 +8,9 @@ Why isn't there a simple library that wraps XStream for an even easier configura
 
 Well I guess there are a few out there, but most are too complicated to use and have pretty much specific needs.
 
-I'm wrote a simple one class ! that you just
-extends and follow a few simple conventions to use properly :)
+So I decided to write one simple class ! 
+One that you just extends and follow a few simple conventions to use properly :)
+This class will make the Element + Attribute parsing a much faster & easier process then it generally is.
 
 === Scenario for testing   ===
 
