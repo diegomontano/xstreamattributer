@@ -1,0 +1,18 @@
+Using XStream to build or parse object from & to XML
+= Introduction =
+
+If you ever used Java's XStream http://xstream.codehaus.org/ 
+you probably encountered that parsing a XML file with more then a few elements and attributes to those elements may be a hampering task, that comes back to hunt you time & time again.
+
+Why isn't there a simple library that wraps XStream for an even easier configuration ?
+
+Well I guess there are a few out there, but most are too complicated to use and have pretty much specific needs.
+
+I'm wrote a simple one class ! that you just
+extends and follow a few simple conventions to use properly :)
+
+= Details =
+
+* Having an xml file to parse to Java objects.
+* Using XStream aliases to configure the Java objects
+* Some of the XML Elements will have attributes (N > = 1)
