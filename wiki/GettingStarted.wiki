@@ -13,6 +13,6 @@ extends and follow a few simple conventions to use properly :)
 
 = Details =
 
-* Having an xml file to parse to Java objects.
-* Using XStream aliases to configure the Java objects
-* Some of the XML Elements will have attributes (N > = 1)
+*  Having an xml file to parse to Java objects.
+*  Using XStream aliases to configure the Java objects
+*  Some of the XML Elements will have attributes (N > = 1)
